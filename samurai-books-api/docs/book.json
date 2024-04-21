@@ -1,0 +1,17 @@
+{
+  "isbn": "9788576082675",
+  "name": "Código Limpo: Habilidades Práticas do Agile Software",
+  "coverImage": "https://devsamurai-materials.s3.amazonaws.com/samurai-books/clean-code.jpg",
+  "price": 99.9,
+  "promotionPrice": 84.36,
+  "rating": 4.6,
+  "score": 4.9,
+  "scores": [
+    { "name": "Tradução", "value": 3.5 },
+    { "name": "Códigos", "value": 4 },
+    { "name": "Comunidade", "value": 5 }
+  ],
+  "tecnologies": ["Java", "TDD", "Arquitetura"],
+  "requirements": ["Java"],
+  "description": "Mesmo um código ruim pode funcionar. Mas se ele não for limpo, pode acabar com uma empresa de desenvolvimento. Perdem-se a cada ano horas incontáveis e recursos importantes devido a um código mal escrito. Mas não precisa ser assim."
+}
